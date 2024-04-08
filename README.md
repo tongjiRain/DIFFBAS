@@ -7,3 +7,5 @@ A method that focuses more on modeling binaural audio differences
 - torch==1.13.1
 - torchaudio==0.13.1
 - tqdm==4.65.0
+## Dataset
+The binaural audio dataset can be downloaded from [here](https://github.com/facebookresearch/BinauralSpeechSynthesis/releases/tag/v1.0).
